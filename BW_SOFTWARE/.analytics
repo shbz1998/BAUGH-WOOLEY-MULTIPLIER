@@ -1,0 +1,186 @@
+timestamp=[2022-10-01 22:25:44], mode=WORKBENCH_START, duration=0:00:06.370, duration_ms=6370, data={}
+timestamp=[2022-10-01 22:25:45], mode=WORKBENCH_UI_INIT, duration=0:00:00.408, duration_ms=408, data={editors_count=0, platform_editors_count=0, projects_count=1, platform_projects_count=0, active_platform_editor=false, projects=RemoteSystemsTempFiles}
+timestamp=[2022-10-01 22:25:46], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.047, duration_ms=47, data={}
+timestamp=[2022-10-01 22:26:38], mode=APP_CREATION, duration=0:00:27.804, duration_ms=27804, data={name=BW_SOFTWARE_DRIVER, project_type=sdk, os=standalone, processor=ps7_cortexa9, runtime=cpp, platform=BW_HARDWARE, application_type=application}
+timestamp=[2022-10-01 22:28:45], mode=PLATFORM_GENERATION, duration=0:00:19.114, duration_ms=19114, data={name=BW_HARDWARE}
+timestamp=[2022-10-01 22:28:46], mode=BUILD, duration=0:00:01.346, duration_ms=1346, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:28:56], mode=BUILD, duration=0:00:00.910, duration_ms=910, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:32:34], mode=BUILD, duration=0:00:00.885, duration_ms=885, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:35:37], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:35:51], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:39:15], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:41:50], mode=WORKBENCH_START, duration=0:00:10.119, duration_ms=10119, data={}
+timestamp=[2022-10-01 22:41:51], mode=WORKBENCH_UI_INIT, duration=0:00:00.552, duration_ms=552, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BW_HARDWARE,BW_SOFTWARE_DRIVER,BW_SOFTWARE_DRIVER_system,RemoteSystemsTempFiles}
+timestamp=[2022-10-01 22:41:55], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.120, duration_ms=120, data={}
+timestamp=[2022-10-01 22:42:18], mode=PLATFORM_GENERATION, duration=0:00:21.606, duration_ms=21606, data={name=BW_HARDWARE}
+timestamp=[2022-10-01 22:42:21], mode=BUILD, duration=0:00:00.393, duration_ms=393, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:43:09], mode=BUILD, duration=0:00:01.284, duration_ms=1284, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:44:20], mode=BUILD, duration=0:00:00.964, duration_ms=964, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:45:37], mode=BUILD, duration=0:00:00.957, duration_ms=957, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:46:29], mode=BUILD, duration=0:00:00.891, duration_ms=891, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:49:11], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:52:07], mode=BUILD, duration=0:00:01.790, duration_ms=1790, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:52:32], mode=BUILD, duration=0:00:00.392, duration_ms=392, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:57:15], mode=BUILD, duration=0:00:00.886, duration_ms=886, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 22:57:58], mode=BUILD, duration=0:00:00.377, duration_ms=377, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:03:29], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:12:01], mode=BUILD, duration=0:00:00.894, duration_ms=894, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:12:45], mode=BUILD, duration=0:00:00.394, duration_ms=394, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:12:52], mode=BUILD, duration=0:00:00.330, duration_ms=330, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:23:56], mode=BUILD, duration=0:00:00.940, duration_ms=940, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:24:21], mode=BUILD, duration=0:00:00.895, duration_ms=895, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:28:04], mode=BUILD, duration=0:00:00.502, duration_ms=502, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:28:40], mode=BUILD, duration=0:00:00.957, duration_ms=957, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:30:47], mode=BUILD, duration=0:00:00.518, duration_ms=518, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:31:59], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:32:35], mode=BUILD, duration=0:00:00.895, duration_ms=895, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:33:10], mode=BUILD, duration=0:00:00.630, duration_ms=630, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:33:15], mode=BUILD, duration=0:00:00.298, duration_ms=298, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:34:15], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:35:10], mode=BUILD, duration=0:00:00.672, duration_ms=672, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:36:01], mode=BUILD, duration=0:00:00.361, duration_ms=361, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:39:20], mode=BUILD, duration=0:00:00.706, duration_ms=706, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:39:22], mode=BUILD, duration=0:00:00.298, duration_ms=298, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:41:37], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:42:20], mode=BUILD, duration=0:00:00.692, duration_ms=692, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-01 23:44:11], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:14:40], mode=BUILD, duration=0:00:00.314, duration_ms=314, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:15:46], mode=BUILD, duration=0:00:00.682, duration_ms=682, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:16:48], mode=BUILD, duration=0:00:00.686, duration_ms=686, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:18:01], mode=BUILD, duration=0:00:00.690, duration_ms=690, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:18:31], mode=BUILD, duration=0:00:00.664, duration_ms=664, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:19:33], mode=BUILD, duration=0:00:00.747, duration_ms=747, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:20:11], mode=BUILD, duration=0:00:00.674, duration_ms=674, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:21:39], mode=BUILD, duration=0:00:00.678, duration_ms=678, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:22:18], mode=BUILD, duration=0:00:00.681, duration_ms=681, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:22:24], mode=BUILD, duration=0:00:00.298, duration_ms=298, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:24:45], mode=BUILD, duration=0:00:00.737, duration_ms=737, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:25:45], mode=BUILD, duration=0:00:00.702, duration_ms=702, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:28:16], mode=BUILD, duration=0:00:00.683, duration_ms=683, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:29:00], mode=BUILD, duration=0:00:00.691, duration_ms=691, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:32:46], mode=BUILD, duration=0:00:00.377, duration_ms=377, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:32:56], mode=BUILD, duration=0:00:00.742, duration_ms=742, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:34:01], mode=BUILD, duration=0:00:00.423, duration_ms=423, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:34:16], mode=BUILD, duration=0:00:00.674, duration_ms=674, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:35:56], mode=BUILD, duration=0:00:00.738, duration_ms=738, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:36:36], mode=BUILD, duration=0:00:00.674, duration_ms=674, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:37:23], mode=BUILD, duration=0:00:00.691, duration_ms=691, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:37:35], mode=BUILD, duration=0:00:00.666, duration_ms=666, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:46:04], mode=BUILD, duration=0:00:00.760, duration_ms=760, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:46:49], mode=BUILD, duration=0:00:00.691, duration_ms=691, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:47:59], mode=BUILD, duration=0:00:00.667, duration_ms=667, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:48:42], mode=BUILD, duration=0:00:00.440, duration_ms=440, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:48:49], mode=BUILD, duration=0:00:00.737, duration_ms=737, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:49:32], mode=BUILD, duration=0:00:00.738, duration_ms=738, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:49:51], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:50:16], mode=BUILD, duration=0:00:00.738, duration_ms=738, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:51:13], mode=BUILD, duration=0:00:00.733, duration_ms=733, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:51:41], mode=BUILD, duration=0:00:00.674, duration_ms=674, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:52:45], mode=BUILD, duration=0:00:00.423, duration_ms=423, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:52:53], mode=BUILD, duration=0:00:00.741, duration_ms=741, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:53:17], mode=BUILD, duration=0:00:00.706, duration_ms=706, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:56:25], mode=BUILD, duration=0:00:00.753, duration_ms=753, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:57:05], mode=BUILD, duration=0:00:00.737, duration_ms=737, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:57:24], mode=BUILD, duration=0:00:00.678, duration_ms=678, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:57:39], mode=BUILD, duration=0:00:00.678, duration_ms=678, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:58:16], mode=BUILD, duration=0:00:00.737, duration_ms=737, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 00:59:03], mode=BUILD, duration=0:00:00.738, duration_ms=738, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 01:02:04], mode=BUILD, duration=0:00:00.369, duration_ms=369, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 01:02:32], mode=BUILD, duration=0:00:00.376, duration_ms=376, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 01:03:00], mode=BUILD, duration=0:00:00.691, duration_ms=691, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 01:03:20], mode=BUILD, duration=0:00:00.670, duration_ms=670, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-02 01:03:51], mode=BUILD, duration=0:00:00.674, duration_ms=674, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:41:08], mode=WORKBENCH_START, duration=0:00:09.597, duration_ms=9597, data={}
+timestamp=[2022-10-06 09:41:09], mode=WORKBENCH_UI_INIT, duration=0:00:00.549, duration_ms=549, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BW_HARDWARE,BW_SOFTWARE_DRIVER,BW_SOFTWARE_DRIVER_system,RemoteSystemsTempFiles}
+timestamp=[2022-10-06 09:41:10], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.110, duration_ms=110, data={}
+timestamp=[2022-10-06 09:41:37], mode=PLATFORM_GENERATION, duration=0:00:18.254, duration_ms=18254, data={name=BW_HARDWARE}
+timestamp=[2022-10-06 09:41:41], mode=BUILD, duration=0:00:01.146, duration_ms=1146, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:46:41], mode=WORKBENCH_START, duration=0:00:10.732, duration_ms=10732, data={}
+timestamp=[2022-10-06 09:46:41], mode=WORKBENCH_UI_INIT, duration=0:00:00.516, duration_ms=516, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BW_HARDWARE,BW_SOFTWARE_DRIVER,BW_SOFTWARE_DRIVER_system,RemoteSystemsTempFiles}
+timestamp=[2022-10-06 09:46:42], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.124, duration_ms=124, data={}
+timestamp=[2022-10-06 09:47:07], mode=PLATFORM_GENERATION, duration=0:00:17.661, duration_ms=17661, data={name=BW_HARDWARE}
+timestamp=[2022-10-06 09:47:10], mode=BUILD, duration=0:00:00.370, duration_ms=370, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:48:26], mode=BUILD, duration=0:00:01.343, duration_ms=1343, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:50:31], mode=BUILD, duration=0:00:00.505, duration_ms=505, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:50:38], mode=BUILD, duration=0:00:00.450, duration_ms=450, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:51:09], mode=BUILD, duration=0:00:00.503, duration_ms=503, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:51:21], mode=BUILD, duration=0:00:00.439, duration_ms=439, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:51:29], mode=BUILD, duration=0:00:00.895, duration_ms=895, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:51:57], mode=BUILD, duration=0:00:00.392, duration_ms=392, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:52:34], mode=BUILD, duration=0:00:00.878, duration_ms=878, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:52:59], mode=BUILD, duration=0:00:00.895, duration_ms=895, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:54:14], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:54:37], mode=BUILD, duration=0:00:00.895, duration_ms=895, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:54:57], mode=BUILD, duration=0:00:00.878, duration_ms=878, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:55:45], mode=BUILD, duration=0:00:00.878, duration_ms=878, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:56:11], mode=BUILD, duration=0:00:00.885, duration_ms=885, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:56:54], mode=BUILD, duration=0:00:00.832, duration_ms=832, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:57:47], mode=BUILD, duration=0:00:00.501, duration_ms=501, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:58:00], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:58:32], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:59:11], mode=BUILD, duration=0:00:00.883, duration_ms=883, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 09:59:38], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:00:46], mode=BUILD, duration=0:00:00.439, duration_ms=439, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:01:10], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:09:35], mode=BUILD, duration=0:00:00.455, duration_ms=455, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:09:42], mode=BUILD, duration=0:00:00.943, duration_ms=943, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:10:12], mode=BUILD, duration=0:00:00.902, duration_ms=902, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:11:40], mode=BUILD, duration=0:00:00.831, duration_ms=831, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:12:20], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:13:21], mode=BUILD, duration=0:00:00.832, duration_ms=832, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:13:33], mode=BUILD, duration=0:00:00.816, duration_ms=816, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:13:48], mode=BUILD, duration=0:00:00.816, duration_ms=816, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:15:09], mode=BUILD, duration=0:00:00.832, duration_ms=832, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:16:34], mode=BUILD, duration=0:00:00.455, duration_ms=455, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:17:54], mode=BUILD, duration=0:00:00.455, duration_ms=455, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:18:05], mode=BUILD, duration=0:00:00.891, duration_ms=891, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:18:33], mode=BUILD, duration=0:00:00.501, duration_ms=501, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:18:51], mode=BUILD, duration=0:00:00.456, duration_ms=456, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:19:07], mode=BUILD, duration=0:00:00.510, duration_ms=510, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:20:44], mode=BUILD, duration=0:00:00.439, duration_ms=439, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:21:01], mode=BUILD, duration=0:00:00.502, duration_ms=502, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:21:10], mode=BUILD, duration=0:00:00.895, duration_ms=895, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:21:18], mode=BUILD, duration=0:00:00.697, duration_ms=697, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:22:01], mode=BUILD, duration=0:00:00.832, duration_ms=832, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:22:08], mode=BUILD, duration=0:00:00.963, duration_ms=963, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:22:41], mode=BUILD, duration=0:00:00.905, duration_ms=905, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:24:59], mode=BUILD, duration=0:00:00.502, duration_ms=502, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 10:25:07], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:27:30], mode=WORKBENCH_START, duration=0:00:09.535, duration_ms=9535, data={}
+timestamp=[2022-10-06 12:27:31], mode=WORKBENCH_UI_INIT, duration=0:00:00.816, duration_ms=816, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BW_HARDWARE,BW_SOFTWARE_DRIVER,BW_SOFTWARE_DRIVER_system,RemoteSystemsTempFiles}
+timestamp=[2022-10-06 12:27:32], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.092, duration_ms=92, data={}
+timestamp=[2022-10-06 12:27:56], mode=BUILD, duration=0:00:01.652, duration_ms=1652, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:32:13], mode=WORKBENCH_START, duration=0:00:12.857, duration_ms=12857, data={}
+timestamp=[2022-10-06 12:32:13], mode=WORKBENCH_UI_INIT, duration=0:00:00.915, duration_ms=915, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BW_HARDWARE,BW_SOFTWARE_DRIVER,BW_SOFTWARE_DRIVER_system,RemoteSystemsTempFiles}
+timestamp=[2022-10-06 12:32:15], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.141, duration_ms=141, data={}
+timestamp=[2022-10-06 12:36:33], mode=BUILD, duration=0:00:01.901, duration_ms=1901, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:37:26], mode=BUILD, duration=0:00:00.518, duration_ms=518, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:37:53], mode=BUILD, duration=0:00:00.502, duration_ms=502, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:38:26], mode=BUILD, duration=0:00:00.816, duration_ms=816, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:41:07], mode=BUILD, duration=0:00:01.067, duration_ms=1067, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:41:36], mode=BUILD, duration=0:00:00.455, duration_ms=455, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:43:20], mode=BUILD, duration=0:00:01.068, duration_ms=1068, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:44:26], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:47:23], mode=BUILD, duration=0:00:00.880, duration_ms=880, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:51:00], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:52:21], mode=BUILD, duration=0:00:00.879, duration_ms=879, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:53:23], mode=BUILD, duration=0:00:00.376, duration_ms=376, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:53:31], mode=BUILD, duration=0:00:00.974, duration_ms=974, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 12:54:20], mode=BUILD, duration=0:00:00.951, duration_ms=951, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:05:02], mode=BUILD, duration=0:00:00.738, duration_ms=738, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:06:55], mode=BUILD, duration=0:00:00.736, duration_ms=736, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:09:44], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:11:33], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:12:04], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:12:36], mode=BUILD, duration=0:00:00.670, duration_ms=670, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:13:10], mode=BUILD, duration=0:00:00.674, duration_ms=674, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:13:33], mode=BUILD, duration=0:00:00.690, duration_ms=690, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:17:23], mode=BUILD, duration=0:00:00.353, duration_ms=353, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:17:41], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:18:14], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:19:00], mode=BUILD, duration=0:00:00.673, duration_ms=673, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:20:28], mode=BUILD, duration=0:00:00.688, duration_ms=688, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-06 13:21:32], mode=BUILD, duration=0:00:00.675, duration_ms=675, data={name=BW_SOFTWARE_DRIVER, configuration=Debug, clean_build=false}
+timestamp=[2022-10-09 16:51:48], mode=WORKBENCH_START, duration=0:00:08.546, duration_ms=8546, data={}
+timestamp=[2022-10-09 16:51:48], mode=WORKBENCH_UI_INIT, duration=0:00:00.634, duration_ms=634, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=BW_HARDWARE,BW_SOFTWARE_DRIVER,BW_SOFTWARE_DRIVER_system,RemoteSystemsTempFiles}
+timestamp=[2022-10-09 16:51:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.119, duration_ms=119, data={}

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2.1 (64-bit)
+# SW Build 3414424 on Sun Dec 19 10:57:22 MST 2021
+# IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+# Start of session at: Thu Oct  6 13:01:17 2022
+# Process ID: 21176
+# Current directory: C:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.runs/design_1_BW_MULTIPLIER_IP_0_0_synth_1
+# Command line: vivado.exe -log design_1_BW_MULTIPLIER_IP_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_BW_MULTIPLIER_IP_0_0.tcl
+# Log file: C:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.runs/design_1_BW_MULTIPLIER_IP_0_0_synth_1/design_1_BW_MULTIPLIER_IP_0_0.vds
+# Journal file: C:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.runs/design_1_BW_MULTIPLIER_IP_0_0_synth_1\vivado.jou
+# Running On: SHBZ, OS: Windows, CPU Frequency: 3096 MHz, CPU Physical cores: 8, Host memory: 34110 MB
+#-----------------------------------------------------------
+source design_1_BW_MULTIPLIER_IP_0_0.tcl -notrace

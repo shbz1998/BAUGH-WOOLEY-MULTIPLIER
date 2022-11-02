@@ -1,0 +1,8 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2021.2/data/xilinx_vip/include" --include "../../../../BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/3007/hdl" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ip/design_1_BW_MULTIPLIER_IP_0_0/design_1_BW_MULTIPLIER_IP_0_0_sim_netlist.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/design_1_auto_pc_0_sim_netlist.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

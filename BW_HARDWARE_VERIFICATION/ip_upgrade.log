@@ -1,0 +1,79 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2.1 (win64) Build 3414424 Sun Dec 19 10:57:22 MST 2021
+| Date         : Thu Oct  6 12:59:20 2022
+| Host         : SHBZ running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_BW_MULTIPLIER_IP_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_BW_MULTIPLIER_IP_0_0 (xilinx.com:user:BW_MULTIPLIER_IP:1.0) from (Rev. 5) to (Rev. 6)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2.1 (win64) Build 3414424 Sun Dec 19 10:57:22 MST 2021
+| Date         : Sat Oct  1 22:18:37 2022
+| Host         : SHBZ running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_BW_MULTIPLIER_IP_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_BW_MULTIPLIER_IP_0_0 (xilinx.com:user:BW_MULTIPLIER_IP:1.0) from (Rev. 4) to (Rev. 5)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2.1 (win64) Build 3414424 Sun Dec 19 10:57:22 MST 2021
+| Date         : Sat Oct  1 22:16:47 2022
+| Host         : SHBZ running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_BW_MULTIPLIER_IP_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_BW_MULTIPLIER_IP_0_0 (xilinx.com:user:BW_MULTIPLIER_IP:1.0) from (Rev. 3) to (Rev. 4)
+
+
+
+
+
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2.1 (win64) Build 3414424 Sun Dec 19 10:57:22 MST 2021
+| Date         : Sat Oct  1 22:13:19 2022
+| Host         : SHBZ running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_BW_MULTIPLIER_IP_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_BW_MULTIPLIER_IP_0_0 (xilinx.com:user:BW_MULTIPLIER_IP:1.0) from (Rev. 2) to (Rev. 3)
+

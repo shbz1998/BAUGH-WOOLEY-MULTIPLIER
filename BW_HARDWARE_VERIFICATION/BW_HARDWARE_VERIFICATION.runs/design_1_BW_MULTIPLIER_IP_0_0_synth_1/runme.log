@@ -1,0 +1,52 @@
+
+*** Running vivado
+    with args -log design_1_BW_MULTIPLIER_IP_0_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_BW_MULTIPLIER_IP_0_0.tcl
+
+
+
+****** Vivado v2021.2.1 (64-bit)
+  **** SW Build 3414424 on Sun Dec 19 10:57:22 MST 2021
+  **** IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+source design_1_BW_MULTIPLIER_IP_0_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/malik/Documents/FPGA_PROJECTS/ip_repo/BW_MULTIPLIER_IP_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2021.2/data/ip'.
+WARNING: [IP_Flow 19-4995] The host OS only allows 260 characters in a normal path. The IP cache path is more than 80 characters. If you experience issues with IP caching, please consider changing the IP cache to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. 
+Current IP cache path is c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.cache/ip 
+Command: synth_design -top design_1_BW_MULTIPLIER_IP_0_0 -part xc7z010clg400-1 -mode out_of_context
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z010'
+INFO: [Device 21-403] Loading part xc7z010clg400-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 9048
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 1565.031 ; gain = 0.000
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'design_1_BW_MULTIPLIER_IP_0_0' [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ip/design_1_BW_MULTIPLIER_IP_0_0/synth/design_1_BW_MULTIPLIER_IP_0_0.vhd:82]
+	Parameter C_S00_AXI_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_S00_AXI_ADDR_WIDTH bound to: 4 - type: integer 
+INFO: [Synth 8-3491] module 'BW_MULTIPLIER_IP_v1_0' declared at 'c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0.vhd:5' bound to instance 'U0' of component 'BW_MULTIPLIER_IP_v1_0' [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ip/design_1_BW_MULTIPLIER_IP_0_0/synth/design_1_BW_MULTIPLIER_IP_0_0.vhd:148]
+INFO: [Synth 8-638] synthesizing module 'BW_MULTIPLIER_IP_v1_0' [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0.vhd:49]
+	Parameter C_S_AXI_DATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_S_AXI_ADDR_WIDTH bound to: 4 - type: integer 
+INFO: [Synth 8-3491] module 'BW_MULTIPLIER_IP_v1_0_S00_AXI' declared at 'c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0_S00_AXI.vhd:5' bound to instance 'BW_MULTIPLIER_IP_v1_0_S00_AXI_inst' of component 'BW_MULTIPLIER_IP_v1_0_S00_AXI' [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0.vhd:85]
+INFO: [Synth 8-638] synthesizing module 'BW_MULTIPLIER_IP_v1_0_S00_AXI' [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0_S00_AXI.vhd:86]
+INFO: [Synth 8-226] default block is never used [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0_S00_AXI.vhd:234]
+INFO: [Synth 8-226] default block is never used [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0_S00_AXI.vhd:364]
+ERROR: [Synth 8-690] width mismatch in assignment; target has 8 bits, source has 32 bits [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0_S00_AXI.vhd:366]
+ERROR: [Synth 8-285] failed synthesizing module 'BW_MULTIPLIER_IP_v1_0_S00_AXI' [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0_S00_AXI.vhd:86]
+ERROR: [Synth 8-285] failed synthesizing module 'BW_MULTIPLIER_IP_v1_0' [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ipshared/12d8/hdl/BW_MULTIPLIER_IP_v1_0.vhd:49]
+ERROR: [Synth 8-285] failed synthesizing module 'design_1_BW_MULTIPLIER_IP_0_0' [c:/Users/malik/Documents/FPGA_PROJECTS/BW_HARDWARE_VERIFICATION/BW_HARDWARE_VERIFICATION.gen/sources_1/bd/design_1/ip/design_1_BW_MULTIPLIER_IP_0_0/synth/design_1_BW_MULTIPLIER_IP_0_0.vhd:82]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:05 . Memory (MB): peak = 1565.031 ; gain = 0.000
+---------------------------------------------------------------------------------
+RTL Elaboration failed
+INFO: [Common 17-83] Releasing license: Synthesis
+16 Infos, 1 Warnings, 0 Critical Warnings and 5 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Synthesis failed - please see the console or run log file for details
+INFO: [Common 17-206] Exiting Vivado at Thu Oct  6 13:01:33 2022...
